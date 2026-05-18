@@ -1,21 +1,30 @@
-<h1 align="center">Hey there 👋, I'm Samuel Magdy!</h1>
-<h3 align="center">Data Analyst | Power BI Developer | SQL Enthusiast</h3>
+<h1 align="center">Hey there 👋, I'm Samuel Magdy</h1>
+
+<h3 align="center">
+Data Analyst | Power BI Developer | SQL Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://linkedin.com/in/samuel-magdy-716470278" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://github.com/SamuelMagdy10" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:42010692.Samuel@acu.edu.eg">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/201204098760" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </p>
 
-<hr>
+---
 
 <h2>🚀 About Me</h2>
 
@@ -30,7 +39,7 @@ I'm <b>Samuel Magdy</b>, a passionate <b>Data Analyst</b> focused on transformin
   <li>💡 Love building real-world analytical projects and dashboards</li>
 </ul>
 
-<hr>
+---
 
 <h2>🛠️ Tech Stack & Tools</h2>
 
@@ -50,7 +59,7 @@ I'm <b>Samuel Magdy</b>, a passionate <b>Data Analyst</b> focused on transformin
 
 </p>
 
-<hr>
+---
 
 <h2>📌 What I’m Working On</h2>
 
@@ -62,50 +71,29 @@ I'm <b>Samuel Magdy</b>, a passionate <b>Data Analyst</b> focused on transformin
   <li>🤖 Learning Machine Learning Fundamentals</li>
 </ul>
 
-<hr>
-
-<h2>📂 Featured Projects</h2>
-
-<h3>📊 Sales Dashboard</h3>
-<p>Interactive Power BI dashboard for sales performance analysis.</p>
-
-<h3>🛒 Retail Data Analysis</h3>
-<p>SQL + Excel project analyzing customer behavior and sales trends.</p>
-
-<h3>📈 HR Analytics Dashboard</h3>
-<p>Dashboard for employee performance and attrition insights.</p>
-
-<hr>
+---
 
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=SamuelMagdy10&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMagdy10&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<hr>
+---
 
 <h2>🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelMagdy10&theme=tokyonight&hide_border=true"/>
 </p>
 
-<hr>
-
-<h2>🌍 Connect With Me</h2>
-
-<ul>
-  <li>💼 LinkedIn: https://linkedin.com/in/YOUR_LINK</li>
-  <li>📧 Email: yourmail@gmail.com</li>
-  <li>💻 GitHub: https://github.com/YOUR_USERNAME</li>
-</ul>
-
-<hr>
+---
 
 <div align="center">
 
